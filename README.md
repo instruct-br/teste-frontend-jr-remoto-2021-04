@@ -19,7 +19,7 @@ Para ajudar o time comercial, você deve desenvolver uma interface que liste os 
 
 A lista de contatos deve ser consumida via API REST [encontrada aqui](https://jsonplaceholder.typicode.com/users), para facilitar a usabilidade dois filtros devem ser disponibilizados: por nome do contato (campo `name`) e pelas possíveis categorias das empresas (encontradas no campo `company.bs`).
 
-Como o time comercial nem sempre está nos escritórios da Vough, a interface deve ser responsiva para que seja facilmente acessível via smartphones e deve seguir a referência visual encontrada neste projeto como logo, fontes e cores marcas registradas da empresa **sem a utilização de frameworks visuais prontos como Bootstrap**.
+Como o time comercial nem sempre está nos escritórios da Vough, a interface deve ser responsiva para que seja facilmente acessível via smartphones e deve seguir a referência visual encontrada neste repositório como logo, fontes e cores marcas registradas da empresa **sem a utilização de frameworks visuais prontos como Bootstrap, Tailwind entre outros**.
 
 O projeto deve ser desenvolvido com base na estrutura encontrada neste repositório utilizando [Nuxt.js](https://nuxtjs.org/) e publicado no [Heroku](https://www.heroku.com/) utilizando Free Tiers disponíveis.
 
@@ -27,7 +27,7 @@ O projeto deve ser desenvolvido com base na estrutura encontrada neste repositó
 
  - Utilize apenas [CSS/SCSS](https://sass-guidelin.es/) desenvolvido por você.
  - Utilize HTML semântico.
- - Se preocupe com a usabilidade, tanto relacionadas à código quando visual.
+ - Se preocupe com a UX e UI do projeto elas serão levadas em consideração na avaliação.
  - Utilize Git com boas mensagens de commit.
  - Se atente nas [boas práticas do Vue.js](https://vuejs.org/v2/style-guide/).
  - Para desenvolver utilize o comando `npm run dev`.
