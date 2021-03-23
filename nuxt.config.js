@@ -6,6 +6,7 @@ export default {
   },
 
   head: {
+    // eslint-disable-next-line prettier/prettier
     title: 'Vough Leads',
     htmlAttrs: {
       lang: 'en',
@@ -36,7 +37,7 @@ export default {
     scss: './assets/scss/*.scss',
   },
 
-  modules: [],
+  modules: ['@nuxt/http'],
 
   build: {},
 }
