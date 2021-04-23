@@ -1,0 +1,65 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@biz.com",
+    "phone": "559321232",
+    "website": "www.johndoe.com",
+    "address": {
+      "street": "12321 Dr, Anaheim",
+      "suite": "CA",
+      "city": "Anaheim",
+      "zipcode": "92802",
+      "geo": {
+        "lat": 33.806112,
+        "lng": -117.9230477
+      }
+    },
+    "company": {
+      "name": "Disney",
+      "bs": "entertainment theme-park thematic",
+      "catchPhrase": "happily ever after"
+    }
+  },
+  {
+    "name": "Leanne Graham",
+    "email": "leanne_graham@gmail.com",
+    "phone": "932143234",
+    "website": "www.leanne.net",
+    "address": {
+      "street": "1601 Guadalupe St",
+      "suite": "TX",
+      "city": "Austin",
+      "zipcode": "78701",
+      "geo": {
+        "lat": 30.3076863,
+        "lng": -97.8934868
+      }
+    },
+    "company": {
+      "name": "Clay Pit",
+      "bs": "entertainment restaurant",
+      "catchPhrase": "Modern Indian Restaurant"
+    }
+  },
+  {
+    "name": "Camilla Johnson",
+    "email": "camilla.johnson@hosting.net",
+    "phone": "13443233",
+    "website": null,
+    "address": {
+      "street": "1250 9th St NW",
+      "suite": "DC",
+      "city": "Washington",
+      "zipcode": "20001",
+      "geo": {
+        "lat": 38.90700748197445,
+        "lng": -77.02453661044898
+      }
+    },
+    "company": {
+      "name": "Ghostburger",
+      "bs": "restaurant pub thematic",
+      "catchPhrase": "Dinne at Ghostburger"
+    }
+  }
+]
